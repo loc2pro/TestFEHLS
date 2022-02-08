@@ -1,0 +1,7 @@
+GET  http://localhost:50000/api/contents/send
+
+###
+GET http://localhost:50000/api/contents/
+
+
+###
